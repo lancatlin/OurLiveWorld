@@ -855,6 +855,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2018-08-08 08:58:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2018-01-30 08:35:12 +0000"
@@ -1657,6 +1663,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2018-08-08 08:58:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2018-01-21 07:42:00 +0000"
@@ -2218,6 +2230,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_brick": "2018-04-03 13:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2018-08-08 08:58:58 +0000"
     },
     "done": true
   },
