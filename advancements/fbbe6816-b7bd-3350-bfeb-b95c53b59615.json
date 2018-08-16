@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2018-08-15 05:52:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2018-06-03 08:08:14 +0000"
@@ -170,6 +176,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2018-06-03 07:40:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2018-08-15 06:06:34 +0000"
     },
     "done": true
   },
@@ -518,6 +530,7 @@
       "savanna_rock": "2018-06-03 07:45:32 +0000",
       "taiga": "2018-06-03 07:49:23 +0000",
       "taiga_hills": "2018-06-03 07:50:24 +0000",
+      "birch_forest_hills": "2018-08-15 06:41:58 +0000",
       "ocean": "2018-06-03 07:47:01 +0000",
       "extreme_hills": "2018-06-03 07:51:25 +0000",
       "roofed_forest": "2018-06-03 07:58:13 +0000",
@@ -705,6 +718,12 @@
     },
     "done": false
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2018-08-15 05:52:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-06-03 07:43:07 +0000"
@@ -768,6 +787,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2018-06-03 07:42:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2018-08-15 05:37:15 +0000"
     },
     "done": true
   },
