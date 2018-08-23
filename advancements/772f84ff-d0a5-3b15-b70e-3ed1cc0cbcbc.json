@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2018-08-23 03:21:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2018-06-17 07:54:38 +0000"
@@ -436,6 +442,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2018-08-23 03:21:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_at_least_9_wheat": "2018-05-20 03:40:37 +0000"
@@ -581,6 +593,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2018-05-20 03:56:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2018-08-23 03:00:05 +0000"
     },
     "done": true
   },
@@ -1079,6 +1097,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2018-08-23 03:29:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2018-05-20 04:37:16 +0000"
@@ -1247,6 +1271,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2018-08-23 03:29:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2018-05-20 03:42:21 +0000"
@@ -1361,7 +1391,9 @@
       "savanna_rock": "2018-06-11 11:11:26 +0000",
       "ice_mountains": "2018-05-20 12:51:44 +0000",
       "taiga": "2018-05-20 04:21:33 +0000",
+      "redwood_taiga": "2018-08-23 03:21:00 +0000",
       "taiga_hills": "2018-05-20 04:27:33 +0000",
+      "redwood_taiga_hills": "2018-08-23 03:21:59 +0000",
       "birch_forest_hills": "2018-05-20 05:11:34 +0000",
       "taiga_cold": "2018-05-20 13:11:48 +0000",
       "ocean": "2018-05-22 09:44:06 +0000",
@@ -1413,6 +1445,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2018-07-02 13:42:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2018-08-23 03:29:57 +0000"
     },
     "done": true
   },
@@ -1533,6 +1571,12 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2018-08-06 08:47:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2018-08-23 03:29:57 +0000"
     },
     "done": true
   },

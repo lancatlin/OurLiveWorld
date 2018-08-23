@@ -449,6 +449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2018-08-23 03:00:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2018-07-17 02:25:25 +0000"
@@ -1042,7 +1048,9 @@
       "savanna_rock": "2018-05-30 10:19:36 +0000",
       "ice_mountains": "2018-05-20 12:51:52 +0000",
       "taiga": "2018-05-19 09:02:11 +0000",
+      "redwood_taiga": "2018-08-23 03:20:58 +0000",
       "taiga_hills": "2018-05-20 04:27:31 +0000",
+      "redwood_taiga_hills": "2018-08-23 03:22:04 +0000",
       "birch_forest_hills": "2018-01-21 07:48:23 +0000",
       "taiga_cold": "2018-05-20 13:11:51 +0000",
       "ocean": "2018-05-22 09:40:33 +0000",
